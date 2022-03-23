@@ -7,7 +7,7 @@ Increases Experience / Uconomy Balance once picking up an item
 - Configurable items
 
 
-## LRequirements
+## Requirements
 - Uconomy
 
 ## Get the Plugin Here
