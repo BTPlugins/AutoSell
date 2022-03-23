@@ -1,6 +1,6 @@
-# PickupSwapper
+# Auto Sell
 
-Increases Experience / Uconomy Balance once picking up an item
+Exactly how it sounds. Increases Experience / Uconomy Balance once picking up an item
 
 ## Features
 - Increase Experience / Uconomy Balance when picking up an Item
