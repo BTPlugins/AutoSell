@@ -13,5 +13,7 @@ namespace PickupSwapper.Services
         public ushort id { get; set; }
         [XmlAttribute]
         public uint IncreaseAmount { get; set; }
+        [XmlAttribute]
+        public string Permission { get; set; }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\PickupSwapper.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\PickupSwapper.pdb
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\Assembly-CSharp.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\Rocket.API.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\Rocket.Core.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\Rocket.Unturned.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\SDG.NetTransport.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\Uconomy.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\bin\Debug\UnityEngine.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\obj\Debug\PickupSwapper.csproj.AssemblyReference.cache
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\obj\Debug\PickupSwapper.csproj.CoreCompileInputs.cache
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\obj\Debug\PickupSwapper.csproj.CopyComplete
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\obj\Debug\PickupSwapper.dll
+C:\Users\blaze\source\repos\PickupSwapper\PickupSwapper\obj\Debug\PickupSwapper.pdb

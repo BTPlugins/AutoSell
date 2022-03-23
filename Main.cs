@@ -14,6 +14,8 @@ using Rocket.Core.Logging;
 using Rocket.API.Collections;
 using UnityEngine;
 using Logger = Rocket.Core.Logging.Logger;
+using Rocket.API;
+using Rocket.API.Serialisation;
 
 namespace PickupSwapper
 {
@@ -41,7 +43,7 @@ namespace PickupSwapper
         private void OnPlayerInventoryAdded(UnturnedPlayer player, InventoryGroup inventoryGroup, byte inventoryIndex, ItemJar P)
         {
             PickupNote Pickup = this.Configuration.Instance.PickupNotes.FirstOrDefault<PickupNote>((Func<PickupNote, bool>)(x => (int)x.id == (int)P.item.id));
-            if(Pickup == null)
+            if(Pickup == null || !player.HasPermission(Pickup.Permission))
             {
                 return;
             }
